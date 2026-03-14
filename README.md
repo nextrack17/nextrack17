@@ -54,8 +54,6 @@ https://github.com/nextrack17/Smart-Traffic-Violation-Detection-System
 - Bayesian Brain Theory
 - Artificial General Intelligence
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nextrack17&show_icons=true&theme=dark)
 ---
 
 ## Connect With Me
@@ -65,3 +63,5 @@ https://www.linkedin.com/in/divyanshu-pandey-7b83962a7
 
 Email: myselfdivyanshu17@gmail.com
 
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nextrack17&show_icons=true&theme=dark)
