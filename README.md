@@ -72,7 +72,7 @@ https://github.com/nextrack17/Smart-Traffic-Violation-Detection-System
 ## Connect With Me
 
 LinkedIn:
-https://linkedin.com/in/divyanshu-pandey-743180110
+https://www.linkedin.com/in/divyanshu-pandey-7b83962a7
 
 Email: myselfdivyanshu17@gmail.com
 
