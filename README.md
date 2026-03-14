@@ -28,20 +28,7 @@ Currently building projects in **Deep Learning, Cognitive Modeling, and AI syste
 
 ## Tech Stack
 
-Languages:
-Python, JavaScript
-
-ML / AI:
-TensorFlow, PyTorch, Scikit-Learn
-
-Data Science:
-NumPy, Pandas, Matplotlib
-
-Computer Vision:
-OpenCV, YOLO
-
-Tools:
-Git, Docker, VS Code, Linux
+Python • PyTorch • TensorFlow • OpenCV • NumPy • Pandas • Docker
 
 ---
 
@@ -67,6 +54,8 @@ https://github.com/nextrack17/Smart-Traffic-Violation-Detection-System
 - Bayesian Brain Theory
 - Artificial General Intelligence
 
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nextrack17&show_icons=true&theme=dark)
 ---
 
 ## Connect With Me
