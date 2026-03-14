@@ -75,6 +75,5 @@ LinkedIn:
 https://linkedin.com/in/divyanshu-pandey-743180110
 
 Email: myselfdivyanshu17@gmail.com
-divyanshukrpandey17@gmail.com## Hi there 👋
 
 <
