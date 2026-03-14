@@ -72,3 +72,4 @@ Email: myselfdivyanshu17@gmail.com
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nextrack17&show_icons=true&theme=dark)
 
+![Snake animation](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)
