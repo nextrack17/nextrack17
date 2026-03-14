@@ -70,7 +70,6 @@ https://www.linkedin.com/in/divyanshu-pandey-7b83962a7
 Email: myselfdivyanshu17@gmail.com
 
 ## GitHub Stats
-![Divyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=nextrack17&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nextrack17&layout=compact&theme=tokyonight)
+![Divyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=nextrack17&show_icons=true&theme=tokyonight)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nextrack17&layout=compact&theme=tokyonight)
 
 ![Snake animation](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)
