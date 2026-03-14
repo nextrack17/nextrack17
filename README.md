@@ -2,7 +2,7 @@
 ## 🧠 Cognitive Science | AI | Machine Learning 
 
 ### 💻 Python | Deep Learning | Computer Vision  
-🔬 Exploring intelligence, perception, and consciousness through code.
+#### 🔬 Exploring intelligence, perception, and consciousness through code.
 
 ---
 
