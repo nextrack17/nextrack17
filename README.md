@@ -1,5 +1,5 @@
 # Hi, I'm Divyanshu Pandey 👋
-##🧠 AI | Cognitive Science | Machine Learning 
+## 🧠 AI | Cognitive Science | Machine Learning 
 
 💻 Python | Deep Learning | Computer Vision  
 🔬 Exploring intelligence, perception, and consciousness through code.
